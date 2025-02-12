@@ -12,7 +12,7 @@ listados abaixo.
 A configuração sugerida está presente na Figura 1.
 1) Microcontrolador Raspberry Pi Pico W.
 2) Servomotor – motor micro servo padrão – Wokwi.
-3) 
+ 
 Os requisitos para a realização desta atividade são:
 
 1) Considerando a GPIO 22, defina a sua frequência de PWM para,
